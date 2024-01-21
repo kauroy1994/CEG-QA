@@ -1,0 +1,1 @@
+{"n_vocab": 181, "emb_size": 1000, "cx_size": 200, "h_size": 1000, "n_layers": 2, "bg_emb_size": 8}
