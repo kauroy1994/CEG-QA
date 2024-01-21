@@ -1,4 +1,4 @@
-# Repository for Causal Knowledge Inspector Paper
+# Repository for Causal Event Graph-Guided Language-based Spatiotemporal Question Answering Paper
 
 This repository contains training code for baselines and methods implemented in the paper
 
